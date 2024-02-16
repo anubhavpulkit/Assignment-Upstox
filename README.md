@@ -6,8 +6,8 @@
 <img src="https://github.com/anubhavpulkit/Assignment-Upstox/assets/47811606/0d222fe6-58d0-44a9-90f2-58bdbb78b87e" width=20% height=20%>
 
 ## Tech
-- [Swift] - Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
-- [SwiftUI] - An innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift!
+- Swift - Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
+- SwiftUI - An innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift!
   
 ## Requirements
 - iOS 17.0 +
